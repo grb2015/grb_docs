@@ -10,7 +10,7 @@
 ^^^^^^^^^^^^^^^^^
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/UaIvrDWrIWM" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.bilibili.com/video/BV1uE411A718?from=search&seid=2279583052492356015" frameborder="0" allowfullscreen></iframe>
 
 加入代码
 ^^^^^^^^^^^^^^^^^
