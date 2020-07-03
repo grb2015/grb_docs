@@ -6,7 +6,9 @@
 step1 登录gitLab
 ^^^^^^^^^^^^^^^^^
 
-自动构建您的文档，这样您的代码和文档就永远不会不同步
+登录： https://github.com/grb2015/grb_docs/tree/master/docs/source
+新建文件进行编辑。
+
 
 
 step2 在gitLab在线编辑
