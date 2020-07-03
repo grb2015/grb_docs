@@ -1,0 +1,23 @@
+可集成H5交互
+============
+
+加入图片
+^^^^^^^^^^^^^^^^^
+.. image:: images/buildF.jpg
+
+
+加入视频
+^^^^^^^^^^^^^^^^^
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UaIvrDWrIWM" frameborder="0" allowfullscreen></iframe>
+
+加入代码
+^^^^^^^^^^^^^^^^^
+
+Here is some text explaining some very complicated stuff.::
+
+    print 'hello'
+    >> hello
+
+Please join our IRC channel on freenode under doctut

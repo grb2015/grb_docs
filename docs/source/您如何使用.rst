@@ -1,0 +1,28 @@
+
+如何使用
+=========
+
+
+step1 登录gitLab
+^^^^^^^^^^^^^^^^^
+
+自动构建您的文档，这样您的代码和文档就永远不会不同步
+
+
+step2 在gitLab在线编辑
+^^^^^^^^^^^^^^^^^^^^^^
+
+您只需要写一个.rst文件即可。
+
+rst文件语法请参考：https://gtcsq.readthedocs.io/en/latest/others/rst_template.html
+
+https://ebf-contribute-guide.readthedocs.io/zh_CN/latest/rest-syntax/pic-video.html
+
+
+step3 预览 提交
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+step4: readthedocs自动完成构建
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+您可以去查看最终效果 https://grb1.readthedocs.io/en/latest/
